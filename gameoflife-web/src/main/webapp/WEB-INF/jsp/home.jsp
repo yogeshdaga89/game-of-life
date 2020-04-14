@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-<h2>Welcome to VODAFONE!</h2>
+<h2>Welcome to _VOIS</h2>
 
 <div class="intro">
     <p>Tnway way back in 1970.</p>
