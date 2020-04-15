@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-<h2>Welcome to _VOISS INDIA PUNE........</h2>
+<h2>Welcome to VODAFONE UK </h2>
 
 <div class="intro">
     <p>Tnway way back in 1970</p>
