@@ -61,10 +61,10 @@
     </style>
 </head>
 <body>
-<h2>Welcome to _VOISS INDIA</h2>
+<h2>Welcome to _VOISS INDIA PUNE........</h2>
 
 <div class="intro">
-    <p>Tnway way back in 1970.........................................</p>
+    <p>Tnway way back in 1970</p>
 
     <p>The universe of the Game of Life is an infinite two-dimensional
         orthogonal grid of square cells, each of which is in one of two possible
