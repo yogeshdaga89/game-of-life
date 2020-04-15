@@ -63,8 +63,9 @@
 <body>
 <h2>Welcome to _VOISS AUSTRALIA 
             
-    *******_VOISS******
-    *****************************************</p>
+           *******_VOISS******
+    *******************************
+    #################################</p>
 
     <p>The universe of the Game of Life is an infinite two-dimensional
         orthogonal grid of square cells, each of which is in one of two possible
