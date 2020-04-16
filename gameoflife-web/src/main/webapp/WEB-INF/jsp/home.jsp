@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-<h2>Welcome to _VOISS </p>
+<h2>Welcome to _VOISS1 </p>
 
     <p>The universe of the Game of Life is an infinite two-dimensional
         orthogonal grid of square cells, each of which is in one of two possible
