@@ -61,10 +61,7 @@
     </style>
 </head>
 <body>
-<h2>Welcome to ROBERT _VOISS
-            
-           *******_VOISS******
-    *******************************</p>
+<h2>Welcome to VODAFONE UK</p>
 
     <p>The universe of the Game of Life is an infinite two-dimensional
         orthogonal grid of square cells, each of which is in one of two possible
